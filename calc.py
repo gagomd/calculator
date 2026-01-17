@@ -1,5 +1,5 @@
 
-print("Calculator!")
+print("----Calculator!---")
 
 x = int(input("X = ")) # input x
 y = int(input("Y = ")) # input yy
