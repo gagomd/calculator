@@ -7,3 +7,4 @@ y = int(input("Y = ")) # input yy
 print(f"Sum = {x+y}")  # sum
 print(f"Sub = {x-y}")  # sub
 print(f"Mult = {x*y}") # mult 
+print(f'Div: {x // y}')# DIV
